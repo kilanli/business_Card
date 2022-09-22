@@ -1,0 +1,21 @@
+body{
+    margin: 25px;
+    color: #2b2839;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.resim{
+    width: 150px;
+}
+.card{
+    display: block;
+    width: 500px;
+    margin: 0px auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #ddebf8;
+    border-bottom: 8px solid #d8cefe;
+}
+.dot{
+    text-align: center;
+}
